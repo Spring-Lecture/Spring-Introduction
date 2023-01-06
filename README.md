@@ -26,3 +26,8 @@
 | - **회원 웹 기능 - 홈 화면 추가** 23/01/05    | [02247c6](https://github.com/Spring-Lecture/Spring-Introduction/commit/02247c60ee79b3f48f38c3b215f3f95637c649cf) |                                                    |
 | - **회원 웹 기능 - 등록** 23/01/05         | [7cb3522](https://github.com/Spring-Lecture/Spring-Introduction/commit/7cb3522ad5a26a3bc74ed9cf44c0c08892873d57) |                                                    |
 | - **회원 웹 기능 - 조회** 23/01/05         | [b3109bf](https://github.com/Spring-Lecture/Spring-Introduction/commit/b3109bf648874737516eb93c2c2aa05e7f8a1e68) |                                                    |
+| - **순수 JDBC** 23/01/05         | [1301016](https://github.com/Spring-Lecture/Spring-Introduction/commit/13010165289f3770a9be69e83457710c511b4efe) |                                                    |
+| - **스프링 통합 테스트** 23/01/05         | [acc012b](https://github.com/Spring-Lecture/Spring-Introduction/commit/acc012bf1cd7af0b40a018042eff47f9145f2743) |                                                    |
+| - **스프링 JdbcTemplate** 23/01/05         | [0cf3539](https://github.com/Spring-Lecture/Spring-Introduction/commit/0cf3539ac59405d5000af96f075730d03f7e1974) |                                                    |
+| - **JPA** 23/01/05         | [c3e9559](https://github.com/Spring-Lecture/Spring-Introduction/commit/c3e9559d5c23db41775e4efa8468a2cb41039550) |                                                    |
+| - **스프링 데이터 JPA** 23/01/05         | [b6be311](https://github.com/Spring-Lecture/Spring-Introduction/commit/b6be311326220db864351ffe463feac94a602b98) |                                                    |
